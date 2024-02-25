@@ -219,6 +219,7 @@ button {
     font-weight: var(--font-black);
     line-height: 109%;
     margin-bottom: var(--mb-1);
+    color: black;
     
 }
 
