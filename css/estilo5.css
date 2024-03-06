@@ -31,3 +31,26 @@ body {
     transform: translate(-50%, -50%);
     box-sizing: border-box;
  }
+ @media (min-width:300px){
+  .login-box{
+    width: 910px;
+    height: 1510px;
+  }
+  
+  .img_login-box{
+    width: 900px;
+    height: 1500px;
+  }
+}
+
+@media (max-width:400px){
+  .login-box{
+    width: 310px;
+    height: 410px;
+  }
+  
+  .img_login-box{
+    width: 310px;
+    height: 410px;;
+  }
+}
