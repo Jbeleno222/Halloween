@@ -284,6 +284,7 @@ button {
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
     padding-top: 1rem;
+    ;
 }
 
 .trick__content {
@@ -296,7 +297,8 @@ button {
 }
 
 .trick__img {
-    width: 90px;
+    width: 150px;
+    height: 150px;
     transition: .3s;
 }
 
