@@ -618,7 +618,8 @@ button {
     }
 
     .trick__img {
-        width: 110px;
+        width: 150px;
+        height: 150px;
     }
 
     .trick__title {
