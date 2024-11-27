@@ -10,7 +10,7 @@
     --text-color: hsl(var(--hue), 4%, 95%);
     --text-color-light: hsl(var(--hue), 4%, 55%);
 
-    --body-color2: linear-gradient(90deg, hsl(23, 84%, 75%) 0%, hsl(9, 92%, 54%) 100%);
+    --body-color2: linear-gradient(180deg, rgba(249,249,249,1) 0%, rgba(231,237,184,1) 35%, rgba(73,11,11,1) 99%);
     --container-color2: white;
 
     /*========== Font and typography ==========*/
@@ -96,9 +96,6 @@ button {
     font-size: var(--normal-font-size);
 }
 
-.section {
-    padding: 4.5rem 0 2rem;
-}
 
 .section_title {
     font-size: var(--h2-font-size);
@@ -289,7 +286,7 @@ button {
 
 .trick__content {
     position: relative;
-    background: var(--container-color2);
+    background: #e5e9ca;
     border-radius: 1rem;
     padding: 1.5rem 0 1rem 0;
     text-align: center;
